@@ -34,6 +34,7 @@ UARTTask (Consumer)
 
 ## Project Structure
 
+```
 Core/
  ├── Inc/
  │    ├── hdc1080.h
@@ -46,8 +47,7 @@ Core/
       ├── app_tasks.c
       ├── app_queue.c
       ├── syscalls.c
-
----
+```
 
 ## Hardware Used
 - STM32F410RE Nucleo board  
