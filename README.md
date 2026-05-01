@@ -50,7 +50,7 @@ Core/
 ```
 
 ## Hardware Used
-- STM32F410RE Nucleo board  
+- STM32F401RE Nucleo board  
 - HDC1080 temperature and humidity sensor  
 - UART (USART2) for logging  
 
