@@ -1,0 +1,3 @@
+../Core/Src/hdc1080.c:17:6:HDC1080_Init	1
+../Core/Src/hdc1080.c:26:7:HDC1080_ReadTemperature	1
+../Core/Src/hdc1080.c:59:7:HDC1080_ReadHumidity	1
